@@ -1,5 +1,6 @@
 body {
   background-image: url(https://picsum.photos/seed/picsum/1600/800);
+  background-size: cover;
   margin: 8px;
   padding: 0px;
 }
